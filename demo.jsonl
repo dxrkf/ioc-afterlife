@@ -1,0 +1,5 @@
+{"type":"domain","value":"OLD.EXAMPLE.","source":"feed-a","verdict":"malicious","observed_at":"2026-08-01T00:00:00Z"}
+{"type":"ip","value":"192.0.2.10","source":"feed-a","verdict":"malicious","observed_at":"2026-11-01T00:00:00Z"}
+{"type":"ip","value":"192.0.2.10","source":"analyst","verdict":"benign","observed_at":"2026-11-01T12:00:00Z"}
+{"type":"domain","value":"retired.example","source":"feed-b","verdict":"malicious","observed_at":"2026-10-30T00:00:00Z"}
+{"type":"domain","value":"retired.example","source":"feed-b","verdict":"revoked","observed_at":"2026-11-01T00:00:00Z"}
